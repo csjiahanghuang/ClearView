@@ -1,0 +1,5 @@
+{
+  "name": "ClearView AI",
+  "description": "An intelligent photo editor that removes visual effects, filters, and artifacts to restore natural, realistic quality using Gemini AI.",
+  "requestFramePermissions": []
+}
